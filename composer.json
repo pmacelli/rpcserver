@@ -1,5 +1,5 @@
 {
-    "name": "comodojo/rpcserver",
+    "name": "pmarcelli/rpcserver",
     "description": "Extensible XML and JSON(2.0) RPC server",
     "license": "MIT",
     "type": "library",
